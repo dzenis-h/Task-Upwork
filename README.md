@@ -1,10 +1,8 @@
-This is a creative task that requires generating content based on the web page context and the search results. Here is a possible README.md file that I have created for you:
+Okay, I have removed the acknowledgements section. Here is the updated README.md file:
 
 # Task
 
 This is a React project that demonstrates how to use a search field to query the Apple Music API and display a list of songs with their album names. The project also shows how to create a rotating list of elements that changes every second.
-
-![Screenshot of the app](./public/screenshot.png)
 
 ## Features
 
