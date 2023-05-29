@@ -1,5 +1,3 @@
-Okay, I have removed the acknowledgements section. Here is the updated README.md file:
-
 # Task
 
 This is a React project that demonstrates how to use a search field to query the Apple Music API and display a list of songs with their album names. The project also shows how to create a rotating list of elements that changes every second.
