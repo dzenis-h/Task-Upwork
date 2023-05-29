@@ -1,6 +1,6 @@
 ##
 
-## <img src="https://image.winudf.com/v2/image/Y29tLmFwcGxlLmFuZHJvaWQubXVzaWNfaWNvbl8xNTI2NTAxNjYxXzAyNw/icon.png?w=170&fakeurl=1&type=.png" alt="app logo" style= "padding: 5px; padding-top: 10px; width:50px; height:50px; float: right;"> Upwork Task ✔️
+## <img src="https://image.winudf.com/v2/image/Y29tLmFwcGxlLmFuZHJvaWQubXVzaWNfaWNvbl8xNTI2NTAxNjYxXzAyNw/icon.png?w=170&fakeurl=1&type=.png" alt="app logo" style= "padding: 5px; padding-top: 10px; width:50px; height:50px; float: right;"> Upwork Task 
 
 ## Overview 📝
 
@@ -17,7 +17,7 @@ This Upwork task is a React project that demonstrates how to use a search field 
 
 To run this project locally, you need to have Node.js and npm installed on your machine. Then follow these steps:
 
-1. Clone this repository: `git clone https://github.com/dzenis-h/Task.git`
+1. Clone this repository: `https://github.com/dzenis-h/Task-Upwork.git`
 2. Navigate to the project folder: `cd Task`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -45,6 +45,10 @@ Contributions are always welcome! If you would like to contribute to this projec
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing) file for details.
+
+## Deployed 🚀
+
+The deployed version of this task can be found [here](https://task-two-xi.vercel.app).
 
 ## Credits 👏
 
