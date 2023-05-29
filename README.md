@@ -1,6 +1,6 @@
 ##
 
-## <img src="https://image.winudf.com/v2/image/Y29tLmFwcGxlLmFuZHJvaWQubXVzaWNfaWNvbl8xNTI2NTAxNjYxXzAyNw/icon.png?w=170&fakeurl=1&type=.png" alt="app logo" style= "padding: 5px; padding-top: 10px; width:50px; height:50px; float: right;"> Upwork Task 
+## <img src="https://image.winudf.com/v2/image/Y29tLmFwcGxlLmFuZHJvaWQubXVzaWNfaWNvbl8xNTI2NTAxNjYxXzAyNw/icon.png?w=170&fakeurl=1&type=.png" alt="app logo" style= "padding: 5px; padding-top: 10px; width:50px; height:50px; float: right;"> Upwork Task ✔️
 
 ## Overview 📝
 
